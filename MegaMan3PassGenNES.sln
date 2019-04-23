@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaMan3PassGenNES", "MegaMan3PassGenNES\MegaMan3PassGenNES.csproj", "{6C3159F2-CB25-404A-A178-AAA5929A2EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C3159F2-CB25-404A-A178-AAA5929A2EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3159F2-CB25-404A-A178-AAA5929A2EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3159F2-CB25-404A-A178-AAA5929A2EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3159F2-CB25-404A-A178-AAA5929A2EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C7C29D-289C-4D48-837E-A6B81C340994}
+	EndGlobalSection
+EndGlobal
